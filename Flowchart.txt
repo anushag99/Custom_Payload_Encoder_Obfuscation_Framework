@@ -1,0 +1,15 @@
+START
+↓
+Load Payload
+↓
+Select Encoding / Obfuscation Method
+↓
+Apply Obfuscation Layer(s)
+↓
+Run Evasion Test
+↓
+Generate Encoded / Obfuscated Output
+↓
+Create Final Report
+↓
+END
