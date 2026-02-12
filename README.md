@@ -6,6 +6,7 @@ The Custom Payload Encoder & Obfuscation Framework is a Python-based internship 
 
 # Objectives
 • Implement Base64, XOR, and ROT13 encoding
+
 • Apply multiple string obfuscation techniques
 • Simulate evasion testing using pattern matching
 • Compare original and modified payloads
